@@ -1,0 +1,5 @@
+package jo.edu.siraj.siraj_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
